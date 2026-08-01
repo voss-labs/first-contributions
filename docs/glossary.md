@@ -321,3 +321,5 @@ Every repo has its own: vauth uses `npm run typecheck`, vboard uses `pnpm check`
 ---
 
 Next: [pick-an-issue.md](pick-an-issue.md) — how to find something to work on and claim it.
+
+<!-- token scope probe -->
