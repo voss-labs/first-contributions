@@ -1,7 +1,7 @@
 ---
 github: harshalmore31
 name: Harshal More
-year: FINAL
+year: BE
 branch: EXCS
 knows: [git, c-cpp, java, python, javascript, typescript, react, sql, go]
 wants: neural systems and brain-inspired computation
