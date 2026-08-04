@@ -5,10 +5,11 @@ year: TE
 branch: EXCS
 
 knows:
-  - Full-Stack Development
-  - Computer Vision
-  - Machine Learning
-  - SEO
+  - git
+  - python
+  - javascript
+  - react
+  - sql
 
 wants:
   - Systems Designing
