@@ -99,6 +99,8 @@ Without the GitHub CLI: click **Fork** on this page, `git clone` your fork, and 
 
 When it merges, the bot posts a comment with two or three VOSS repositories worth looking at, chosen from what you put in `knows`. Your name also lands on [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
+[![Contributors](https://contrib.rocks/image?repo=voss-labs/first-contributions)](https://github.com/voss-labs/first-contributions/graphs/contributors)
+
 Then pick something real:
 
 1. **[pick-an-issue.md](docs/pick-an-issue.md)** — find an issue that fits, and claim it by commenting `I'd like to work on this`. Do that before you start writing code, so two people never burn a week on the same thing.
