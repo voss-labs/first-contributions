@@ -3,7 +3,7 @@ github: Mandar885
 name: Mandar Patil
 year: BE
 branch: EXCS
-knows: [python, Embedded C, SQL, git, react, HTML, CSS, Javascript]
+knows: [python, SQL, git, react, DSA, Javascript, html-css, c-cpp]
 wants: contribute in AI/ML and Data science projects
 ---
 
