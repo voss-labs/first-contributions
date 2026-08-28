@@ -2,17 +2,18 @@
 
 # Contributors
 
-5 people have made their first contribution to VOSS Labs.
+6 people have made their first contribution to VOSS Labs.
 
-**By year:** TE 3 · BE 2
+**By year:** TE 3 · BE 3
 
-**By skill:** git 5 · python 5 · javascript 4 · c-cpp 3 · react 3 · java 2 · sql 2 · dsa 1 · typescript 1 · go 1
+**By skill:** git 6 · python 6 · javascript 5 · c-cpp 4 · react 4 · sql 3 · dsa 2 · java 2 · typescript 1 · go 1 · html-css 1
 
 | Name | Year | Branch | Knows | Wants to learn |
 | --- | --- | --- | --- | --- |
 | [Anup Sawant](https://github.com/anup-sawant12) | TE | EXCS | c-cpp, python, javascript, react, git | Java,Node.js,Express.js,Django,REST APIs,MySQL,MongoDB,Open Source |
 | [Armash Ansari](https://github.com/armash66) | TE | EXCS | git, python, javascript, react, sql | Systems Designing,Open Source |
 | [Harshal More](https://github.com/harshalmore31) | BE | EXCS | git, c-cpp, java, python, javascript, typescript, react, sql, go | neural systems and brain-inspired computation |
+| [Mandar Patil](https://github.com/Mandar885) | BE | EXCS | python, sql, git, react, dsa, javascript, html-css, c-cpp | contribute in AI/ML and Data science projects |
 | [Raj Mali](https://github.com/Rajmali-22) | BE | EXCS | python, javascript, git | open source contribution |
 | [Shardul Chogale](https://github.com/shard-c6) | TE | CMPN | python, git, dsa, c-cpp, java | — |
 
