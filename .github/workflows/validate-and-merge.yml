@@ -14,6 +14,10 @@ concurrency:
 
 jobs:
   validate:
+    # This workflow is for first-contribution PRs from forks. Maintainer and
+    # automation PRs opened from branches in this repository should use normal
+    # review/test flows, not contributor auto-merge validation.
+    if: github.event.pull_request.head.repo.full_name != github.repository
     runs-on: ubuntu-latest
     steps:
       # pull_request_target runs with write permissions against the base
