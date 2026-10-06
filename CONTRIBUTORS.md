@@ -2,11 +2,11 @@
 
 # Contributors
 
-7 people have made their first contribution to VOSS Labs.
+8 people have made their first contribution to VOSS Labs.
 
-**By year:** TE 4 · BE 3
+**By year:** TE 4 · BE 4
 
-**By skill:** git 7 · python 6 · javascript 6 · c-cpp 4 · react 4 · java 3 · sql 3 · dsa 2 · typescript 2 · go 1 · html-css 1
+**By skill:** git 8 · python 7 · javascript 6 · c-cpp 4 · react 4 · java 3 · sql 3 · dsa 2 · typescript 2 · go 1 · html-css 1
 
 | Name | Year | Branch | Knows | Wants to learn |
 | --- | --- | --- | --- | --- |
@@ -17,6 +17,7 @@
 | [Om Yewale](https://github.com/OMEE-Y) | TE | INFT | git, java, javascript, typescript | backend and ml |
 | [Raj Mali](https://github.com/Rajmali-22) | BE | EXCS | python, javascript, git | open source contribution |
 | [Shardul Chogale](https://github.com/shard-c6) | TE | CMPN | python, git, dsa, c-cpp, java | — |
+| [Trupti Vibhute](https://github.com/st4rburg3r) | BE | EXCS | git, python | Cloud Infrastructure Development |
 
 ---
 
