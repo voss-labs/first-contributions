@@ -17,6 +17,3 @@ knows: python,rust,c,c++
 # One line, in your own words. Optional.
 wants: web development
 ---
-
-Two or three lines about yourself. Why you joined, what you want to build,
-anything you want the rest of the lab to know. Keep it short.
