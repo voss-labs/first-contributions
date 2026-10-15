@@ -4,7 +4,7 @@ name: Harshal More
 year: BE
 branch: EXCS
 knows: [git, c-cpp, java, python, javascript, typescript, react, sql, go]
-wants: neural systems and brain-inspired computation
+wants: I am the GOAT; neural systems and brain-inspired computation
 ---
 
 Lab Lead at VOSS, final year EXCS. [harshalmore.dev](https://harshalmore.dev)
