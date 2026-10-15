@@ -1,23 +1,22 @@
-<div align="center">
- 
-#  Hola!  I'm Aditya!
-### Systems Engineer |  FOSS Developer
+---
+# Copy this file to contributors/<your-github-username>.md and edit it.
+# The filename has to match your GitHub username exactly.
 
- 
-<h2 align="center">About Me</h2>
-<p align="center">
-  I'm <b>Aditya Verma</b>, a Electronics Engineering Student and a Passionate Programmer, I am interested in
-  <b>Artificial Intelligence, Hardware Systems and Researches</b>.
-  I just enjoy programming.
-</p>
+github: youngcoder45
+name: Aditya Verma
+year: FE
+branch: EXTC
 
+# What you already know. Pick from this list, and only this list:
+#   none-yet, git, dsa, c-cpp, java, python, javascript, typescript,
+#   react, go, html-css, sql
+# "none-yet" is a real answer. Nobody is checking up on you, and this is
+# only used to point you at issues you will enjoy.
+knows: python,rust,c,c++
 
-<h2 align="center">Current Focus</h2>
+# One line, in your own words. Optional.
+wants: web development
+---
 
-- Working on: Python-based projects, Discord bots, and Next.js Web Apps.
-- Learning: Artificial Intelligence, Data Structures & Algorithms, and Machine Learning and FastAPI
-- Open to collaborate on any project associated with my tech stack.
-- Ask me about: Python, C, C++, Rust, JavaScript, Web Dev, and programming concepts
-- Goal: Just code!
-
-Get in touch [@youngcoder45](https://github.com/youngcoder45)
+Two or three lines about yourself. Why you joined, what you want to build,
+anything you want the rest of the lab to know. Keep it short.
