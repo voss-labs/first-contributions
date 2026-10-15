@@ -12,7 +12,7 @@ branch: EXTC
 #   react, go, html-css, sql
 # "none-yet" is a real answer. Nobody is checking up on you, and this is
 # only used to point you at issues you will enjoy.
-knows: [python,rust,c,c++]
+knows: [python]
 
 # One line, in your own words. Optional.
 wants: web development
