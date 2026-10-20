@@ -2,11 +2,11 @@
 
 # Contributors
 
-15 people have made their first contribution to VOSS Labs.
+16 people have made their first contribution to VOSS Labs.
 
-**By year:** FE 3 · TE 6 · BE 6
+**By year:** FE 3 · TE 6 · BE 7
 
-**By skill:** python 13 · git 10 · javascript 8 · react 8 · java 7 · c-cpp 5 · sql 5 · dsa 2 · typescript 2 · html-css 2 · go 1
+**By skill:** python 14 · git 11 · java 8 · javascript 8 · react 8 · c-cpp 6 · sql 5 · dsa 3 · typescript 2 · html-css 2 · go 1
 
 | Name | Year | Branch | Knows | Wants to learn |
 | --- | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | [Piyush Tiwari](https://github.com/piyush-tiwari-dev) | TE | EXCS | python, java | web development |
 | [Raj Mali](https://github.com/Rajmali-22) | BE | EXCS | python, javascript, git | open source contribution |
 | [Shardul Chogale](https://github.com/shard-c6) | TE | CMPN | python, git, dsa, c-cpp, java | — |
+| [Shubham Ralkar](https://github.com/ShubhamRalkar) | BE | EXCS | git, dsa, c-cpp, java, python | web development, Physical AI, Intelligent Embeeded Systems |
 | [Siddhi Ayare](https://github.com/Siddhiayare03) | BE | EXCS | python, javascript, react, sql | cloud-devops |
 | [Sukumar Sawant](https://github.com/Sukumarsawant) | TE | CMPN | c-cpp, python, javascript, java, git, react | systems programming, open source, full stack development |
 | [Trupti Vibhute](https://github.com/st4rburg3r) | BE | EXCS | git, python | Cloud Infrastructure Development |
