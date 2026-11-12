@@ -11,3 +11,5 @@ backend engineer @ actrun.ai building cloud systems and ai agentic workflows.
 
 i break things to understand what's under the hood. 
 building saas products to address issues which i felt personally needs to be addressed.
+
+not a dsa nerd but i know what to do when problem arises. reach @ [singhaman.me](singhaman.me)
