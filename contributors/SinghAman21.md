@@ -3,7 +3,7 @@ github: SinghAman21
 name: Aman Singh
 year: BE
 branch: INFT
-knows: [git,python, javascript ecosystem, react, sql, go, distributed-systems, aws]
+knows: [git,python, typescript, javascript, react, sql, go]
 wants: scalable and highly fault tolerant systems.
 ---
 
