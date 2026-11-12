@@ -2,16 +2,17 @@
 
 # Contributors
 
-16 people have made their first contribution to VOSS Labs.
+17 people have made their first contribution to VOSS Labs.
 
-**By year:** FE 3 · TE 6 · BE 7
+**By year:** FE 3 · TE 6 · BE 8
 
-**By skill:** python 14 · git 11 · java 8 · javascript 8 · react 8 · c-cpp 6 · sql 5 · dsa 3 · typescript 2 · html-css 2 · go 1
+**By skill:** python 15 · git 12 · javascript 9 · react 9 · java 8 · c-cpp 6 · sql 6 · dsa 3 · typescript 3 · go 2 · html-css 2
 
 | Name | Year | Branch | Knows | Wants to learn |
 | --- | --- | --- | --- | --- |
 | [Aditya Chavan](https://github.com/adiiwithgit) | FE | EXTC | java, react | web applications |
 | [Aditya Verma](https://github.com/youngcoder45) | FE | EXTC | python | web development |
+| [Aman Singh](https://github.com/SinghAman21) | BE | INFT | git, python, typescript, javascript, react, sql, go | scalable and highly fault tolerant systems. |
 | [Anup Sawant](https://github.com/anup-sawant12) | TE | EXCS | c-cpp, python, javascript, react, git | Java,Node.js,Express.js,Django,REST APIs,MySQL,MongoDB,Open Source |
 | [Armash Ansari](https://github.com/armash66) | TE | EXCS | git, python, javascript, react, sql | Systems Designing,Open Source |
 | [Harshal More](https://github.com/harshalmore31) | BE | EXCS | git, c-cpp, java, python, javascript, typescript, react, sql, go | neural systems and brain-inspired computation |
